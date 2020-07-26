@@ -1,0 +1,8 @@
+{
+  "typescript.tsdk": ".yarn/sdks/typescript/lib",
+  "typescript.enablePromptUseWorkspaceTsdk": true,
+  "files.exclude": {
+    ".yarn": true,
+    "dist": true
+  }
+}
