@@ -3,6 +3,7 @@
   "typescript.enablePromptUseWorkspaceTsdk": true,
   "files.exclude": {
     ".yarn": true,
-    "dist": true
+    "dist": true,
+    "tsconfig.tsbuildinfo": true
   }
 }

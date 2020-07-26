@@ -11,3 +11,4 @@
 
 # Built files
 dist/
+tsconfig.tsbuildinfo
